@@ -44,3 +44,10 @@ Use version control systems, like Git, to keep track of your code and collaborat
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project before moving on to less important tasks or bugs. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them. 
+ 其次，明智地规划你的时间。在编程时，合理安排时间至关重要。你可以为每个任务分配特定的时间段，以确保你在一天中为每一个任务都分配了足够的时间。避免在一天中的同一时间处理相同的任务，因为这可能导致效率低下。同时，确保在任务之间留出一些休息时间，以便在继续工作之前让大脑得到恢复。 再次，保持组织。一个干净、有组织的代码库可以帮助你更快地找到问题并解决问题。使用版本控制系统（如Git）来跟踪代码更改，并确保你的代码结构清晰、命名规范。这将使你的团队更容易协作，同时也有助于你在需要时回顾和修改代码。
+总之，今天的智慧是优先处理任务、明智规划时间并保持组织，这将帮助你更有效地进行编程工作。
