@@ -89,3 +89,9 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 8. Be patient and persistent: Learning new skills can be challenging, but staying dedicated and patient will pay off in your career.       
 9. Network and build relationships: Connect with other developers and industry professionals to learn from their experiences and share your knowledge.        
 By following these tips, you' ll be able to grow both personally and professionally in today' 's ever-changing tech landscape.
+
+# 2023-12-03
+- Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you complete the tasks that are most critical to your project or business.
+
+Next, use a scheduling tool or planner to plan out your day or week. Allocate time for each task, including breaks and time to handle any unexpected issues that may arise. Having a plan will keep you organized and on track, ensuring that your projects stay on schedule. 
+ - 来自帮助助手
