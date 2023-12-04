@@ -95,3 +95,6 @@ By following these tips, you' ll be able to grow both personally and professiona
 
 Next, use a scheduling tool or planner to plan out your day or week. Allocate time for each task, including breaks and time to handle any unexpected issues that may arise. Having a plan will keep you organized and on track, ensuring that your projects stay on schedule. 
  - 来自帮助助手
+
+# 2023-12-04
+- Today's programming wisdom is to prioritize readability and maintainability in your code. Writing clean, well-organized code that is easy to understand and modify will save time and effort in the long run, especially when working on large projects or as part of a team. Use descriptive variable names, write comments to explain complex logic, and follow established coding conventions and best practices. Remember that code is read far more often than it is written, so make it easy for others (and your future self) to read and work with your code.
