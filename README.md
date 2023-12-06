@@ -101,3 +101,6 @@ Next, use a scheduling tool or planner to plan out your day or week. Allocate ti
 
 # 2023-12-05
 - "Keep it simple, stupid!"
+
+# 2023-12-06
+- "Keep it simple, stupid!"
