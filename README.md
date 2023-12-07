@@ -104,3 +104,8 @@ Next, use a scheduling tool or planner to plan out your day or week. Allocate ti
 
 # 2023-12-06
 - "Keep it simple, stupid!"
+
+# 2023-12-07
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and wasted time. It's often better to write simple, readable code first and optimize only when necessary, based on profiling and measurement.
