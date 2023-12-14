@@ -132,3 +132,6 @@ This quote reminds us that optimizing code before it's necessary can lead to unn
 
 Second, planning ahead is crucial. Before starting a project, think about the overall goal and break it down into smaller tasks. Creating a plan will make it easier to stay focused and on track. You can use tools like Trello or Asana to help with project management and task tracking. These tools can help keep you organized and make sure you don't forget anything important. 
  - 来自NLP
+
+# 2023-12-14
+- "Keep it simple, stupid!"
