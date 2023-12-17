@@ -141,3 +141,6 @@ Second, planning ahead is crucial. Before starting a project, think about the ov
 
 # 2023-12-16
 - "Keep it simple, stupid!"
+
+# 2023-12-17
+- "Keep it simple, stupid!"
