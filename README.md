@@ -144,3 +144,9 @@ Second, planning ahead is crucial. Before starting a project, think about the ov
 
 # 2023-12-17
 - "Keep it simple, stupid!"
+
+# 2023-12-18
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and focus on them first. By prioritizing your tasks this way, you can ensure that you are making progress on the right things.
+
+Second, always plan your day or week ahead of time. Write down your goals and deadlines, so you have a clear idea of what you need to accomplish. Planning ahead will also help to avoid last-minute panic and stress. You can use task management tools, such as Trello or Asana, to keep track of your progress and make adjustments as needed. 
+ ..
