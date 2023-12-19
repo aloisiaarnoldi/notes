@@ -150,3 +150,8 @@ Second, planning ahead is crucial. Before starting a project, think about the ov
 
 Second, always plan your day or week ahead of time. Write down your goals and deadlines, so you have a clear idea of what you need to accomplish. Planning ahead will also help to avoid last-minute panic and stress. You can use task management tools, such as Trello or Asana, to keep track of your progress and make adjustments as needed. 
  ..
+
+# 2023-12-19
+- "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and wasted time. It's often better to write simple, working code first and optimize only when necessary.
