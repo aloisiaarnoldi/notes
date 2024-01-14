@@ -268,3 +268,10 @@ In essence, this highlights the importance of writing clean, self-explanatory co
 
 # 2024-01-13
 - "Keep it simple, stupid!"
+
+# 2024-01-14
+- Today's programming wisdom is to be a lifelong learner, constantly updating your skills and knowledge in the field. This means staying up-to-date with the latest technologies, tools, and programming languages. It also means being open to new ideas and approaches, as well as being willing to take risks and try new things.
+
+To be successful in programming, it' s essential to have a deep understanding of the fundamentals, such as data structures, algorithms, computer architecture, operating systems, etc. These fundamentals will provide a solid foundation for your career, allowing you to adapt to the ever-changing landscape of technology. 
+ - 了解最新技术、工具和编程语言。
+- 对基本原理有深入理解，如数据结构、算法、计算机架构、操作系统等。
